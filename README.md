@@ -13,16 +13,3 @@ Need to better study the problem before tackling it. In doing so I won't end up 
 
 Solution: copy and pasting banned for all learning. Only typing line by line. Digestion rule - dissect and assimilate.  
 
-### Next
-
-Skipping to animations then SASS in preparation for web development boot-camp. Might need grid too.
-
-Making a diary/journal to detail learning on github. Make a repository with directories for each year and file for each month. Have road-map in there too.
-
-Clean repos folder out. Make directory for eah language. Sub-directory for each main learning source.
-
-Learn basic markdown for tasks
-
-Make current learning tasks heading in git journal.
-
-Make principles/advice section to hold learning rules
